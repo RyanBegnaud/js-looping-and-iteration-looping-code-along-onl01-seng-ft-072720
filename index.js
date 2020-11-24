@@ -6,5 +6,5 @@ function writeCards(names, eventName) {
     }
    return arr
 }
-function countDown
-while
+function countDown(number)
+  while
