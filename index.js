@@ -6,5 +6,8 @@ function writeCards(names, eventName) {
     }
    return arr
 }
-function countDown(number)
-  while
+function countDown(number){
+  while(number != -1) {
+    number--
+  }
+}
